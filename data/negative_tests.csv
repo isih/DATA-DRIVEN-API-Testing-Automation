@@ -1,0 +1,4 @@
+userId,expectedStatusCode
+9999,404
+8888,404
+7777,404

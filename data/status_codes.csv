@@ -1,0 +1,4 @@
+userId,expectedStatusCode
+1,200
+2,200
+99,404
